@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "download_url": "https://arielcorporations.github.io/office/sheets/version.json",
-    "changelog": "First release\n- not improved performance\n- No added new features",
+    "changelog": "3rd release\n- not improved performance\n- No added new features",
     "min_required_version": "1.0.0",
     "release_date": "2024-11-01"
 }

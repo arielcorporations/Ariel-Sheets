@@ -2,7 +2,7 @@
 
 A modern, Python-based spreadsheet application with a clean interface and powerful features.
 
-![Ariel Sheets Logo](icon.ico)
+![Ariel Sheets Logo](icon.jpg)
 
 ## Features
 

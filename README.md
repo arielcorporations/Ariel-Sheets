@@ -27,4 +27,5 @@ A modern, Python-based spreadsheet application with a clean interface and powerf
 ### Manual Installation
 1. Download the latest release from [Releases](https://github.com/arielthegeek/Ariel-Sheets/releases)
 2. Extract the files to a folder
-3. Run ArielSheets.py
+3. Run ariel_sheets.reg
+4. Run ArielSheets.py
